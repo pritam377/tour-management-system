@@ -13,7 +13,6 @@ import FeaturedTourList from "../components/Featured-tour/FeaturedTourList";
 import MasonryImagesGallery from "../components/image-gallery/MasonryImagesGallery";
 import Testimonial from "../components/Testimonial/Testimonial";
 import Newsletter from '../shared/Newsletter'
-import Newsletter from '../shared/Newsletter'
 
 const Home = () => {
   return (
