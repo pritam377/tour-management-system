@@ -14,9 +14,9 @@ const Newsletter = () => {
                     <div className='newsletter__input'>
                         <input type='email' placeholder='Enter your email'/>
                         <button className='btn newsletter__btn'>Subscribe</button>
-                        <p>Lorem ipsum is simply dummy text of the printing and typesetting
-                        industry. </p>
                     </div>
+                    <p>Lorem ipsum is simply dummy text of the printing and typesetting
+                        industry. </p>
                 </div>
             </Col>
             <Col lg='6'>
